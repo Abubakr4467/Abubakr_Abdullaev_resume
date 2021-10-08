@@ -16,3 +16,6 @@
 <br>
 -GoLang
 
+- 🔭 I’m currently working on Git commands.
+- 🌱 I’m currently learning Golang.
+- 📫 How to reach me: [Telegram - @dustin2804](https://t.me/dustin2804)
